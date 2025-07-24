@@ -1,0 +1,5 @@
+this is the bug fix file 
+
+another bug detect and fixed
+
+third bug appears and fixed.
